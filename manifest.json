@@ -1,0 +1,31 @@
+{
+  "short_name": "OFC-1450",
+  "name": "OFC-1450",
+  "start_url": "/page-test",
+  "background_color": "#ffff00",
+  "description": "",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "images/64x64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "images/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "density": "0.75"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "images/1280x720.png",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ]
+}
+
